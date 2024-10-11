@@ -4,14 +4,18 @@ Hello There👋 , My name is Rifqi Nabil Rafiudin
 You can call me Qiqi, I'am a Front-End & Mobile Developer
 ---------------------------------------------------------
 
-Still Learning ReactJS🧠
+<ul>
+  <li>💻 Always learning, always <strong>coding.</strong></li>
+  <li>👨‍⚖️ <strong>Tech explorer.</strong></li>
+  <li>🤔 Currently i'm learning <strong> ReactJS </strong></li>
+</ul>
+
 <p align="left"></p>
 
-###
-
-<h3 align="left">My Skills</h3>
 
 ###
+
+# Skills🧑‍💻
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -33,9 +37,7 @@ Still Learning ReactJS🧠
 
 ###
 
-<h3 align="left">My Socials</h3>
-
-###
+# My Socials & Stats🦸
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rifqi-nabil-rafiudin-b2b579296/" target="_blank">
