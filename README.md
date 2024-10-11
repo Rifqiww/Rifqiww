@@ -70,6 +70,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rifqiww/Rifqiww/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rifqiww.Rifqiww&left_color=firebrick&right_color=darkgoldenrod&left_text=Viewers"  />
 
 ###
