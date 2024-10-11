@@ -1,4 +1,10 @@
-<h2 align="center">Hello There👋 ,  My name is Rifqi Nabil Rafiudin</h2>
+Hello There👋 , My name is Rifqi Nabil Rafiudin
+====================================================================================================================================================
+
+You can call me Qiqi, I'am a Front-End & Mobile Developer
+---------------------------------------------------------
+
+Still Learning ReactJS🧠
 
 ###
 
