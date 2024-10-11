@@ -5,15 +5,6 @@ You can call me Qiqi, I'am a Front-End & Mobile Developer
 ---------------------------------------------------------
 
 Still Learning ReactJS🧠
-
-###
-
-<br clear="both">
-
-<h4 align="center">I'am a Frontend & Mobile Developer</h4>
-
-###
-
 <p align="left"></p>
 
 ###
