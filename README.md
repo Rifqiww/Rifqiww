@@ -5,8 +5,8 @@ You can call me Qiqi, I'am a Front-End & Mobile Developer
 ---------------------------------------------------------
 
 <ul>
-  <li>💻 Always learning, always <strong>coding.</strong></li>
-  <li>👨‍⚖️ <strong>Tech explorer.</strong></li>
+  <li>💻 Programming is learned by writing programs</li>
+  <li>👨‍⚖️ <strong>Tech explorer, Tech Addict</strong></li>
   <li>🤔 Currently i'm learning <strong> ReactJS </strong></li>
 </ul>
 
