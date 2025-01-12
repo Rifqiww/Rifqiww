@@ -18,7 +18,16 @@ You can call me Qiqi, I'am a Front-End & Mobile Developer
 
 # Skills🧑‍💻
 
-<div align="left">
+<style>
+    .custom-background {
+      background-color: white;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+</style>
+
+<div class="custom-background" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
