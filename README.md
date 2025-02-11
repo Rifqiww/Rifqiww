@@ -8,7 +8,7 @@ You can call me Qiqi, I'am a Front-End & Mobile Developer
   <li>💻 Programming is learned by writing programs</li>
   <li>👨‍⚖️ <strong>Tech explorer, Tech Addict</strong></li>
   <li>💭 Ask me about <strong>React and Java</strong></li>
-  <li>🤔 Currently i'm learning <strong> ReactNative, Typescript, Expo </strong></li>
+  <li>🤔 Currently i'm learning <strong> ReactNative, Typescript, Expo, And Flutter</strong></li>
 </ul>
 
 <p align="left"></p>
