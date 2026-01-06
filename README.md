@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I’m currently study at SMKN 8 SEMARANG<br>🏢 I’m looking for internship<br>🤝 I’d love to work as a team<br>📖 I’m currently learning Typescript, Nextjs, C#<br>💖 Tech Addict
+🏫 I’m currently study at SMKN 8 SEMARANG<br>🏢 I’m looking for internship<br>🤝 I’d love to work as a team<br>📖 I’m currently learning Nuxt, Hono, Bun, and Nextjs<br>💖 Tech Addict
 
 
 ## 🌐 Socials:
