@@ -5,7 +5,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/172/172151.gif" alt="Asuka Banner" width="auto" height="70%">
+  <img src="https://giffiles.alphacoders.com/172/172151.gif" alt="Asuka Banner" width="70%" height="70%">
 </div>
 
 <br>
