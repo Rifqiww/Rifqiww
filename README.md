@@ -5,37 +5,14 @@
 </div>
 <img src="https://giffiles.alphacoders.com/172/172151.gif" alt="Asuka Banner" width="100%" height="auto">
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🎓 <strong>Education Journey</strong></h3>
-        <p><code>SMKN 8 Semarang</code><br>
-        <em>Software & Game Development</em></p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🧑🏻‍💻 <strong>Current Mission</strong></h3>
-        <p><code>Intern at PT Talenavi</code><br>
-        <em>Frontend Developer</em></p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <h3>💡 <strong>Current Learning</strong></h3>
-        <p><code>C#</code> • <code>Three.js</code> • <code>Cybersecurity</code></p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <h3>🔥 <strong>Tech Enthusiast</strong></h3>
-        <p><em>"Code is poetry, security is art, innovation is life"</em></p>
-        <p>🚀 <strong>Open for collabs & tech discussions</strong></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <br>
+
+# 👨‍💻 About Me
+
+**🎓 SMKN 8 Semarang** • Software & Game Development  
+**🧑🏻‍💻 Frontend Developer Intern** at PT Talenavi  
+**💡 Currently Learning:** `C#` • `Three.js` • `Cybersecurity`  
+**🚀 Tech Enthusiast** Open for collaborations & tech discussions
 
 <br>
 
@@ -52,9 +29,9 @@
 
 <br>
 
-# Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Frontend, Mobile & Game
+### • Frontend, Mobile & Game
 
 <div align="Left">
 
@@ -69,23 +46,23 @@
 
 </div> 
 
-### ⚙️ Backend
+### • Backend
 [![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Hono](https://img.shields.io/badge/Hono-FFA500?style=for-the-badge&logo=hono&logoColor=white)](#)
 
 
-### 🗄️ Database
+### • Database
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-### 🎨 Design Tools
+### • Design Tools
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](#)
 
-### 🚀 Deployment
+### • Deployment
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
