@@ -24,7 +24,7 @@
 <div align="start">
   
 [![Instagram](https://img.shields.io/badge/-@its_rifqi-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/its_rifqi)
-[![LinkedIn](https://img.shields.io/badge/-RifqiNR-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifqi-nabil-rafiudin)
+[![LinkedIn](https://img.shields.io/badge/-RifqiNR-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifqi-nabil-rafiudin-b2b579296)
 [![TikTok](https://img.shields.io/badge/-@_rxfqii-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@_rxfqii)
 [![YouTube](https://img.shields.io/badge/-@Rifqiww-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@Rifqiww)
 
