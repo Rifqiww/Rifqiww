@@ -1,9 +1,12 @@
 <div align="center">
   <h1>
     Hello there! My name is Rifqi Nabil Rafiudin
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   </h1>
 </div>
-<img src="https://giffiles.alphacoders.com/172/172151.gif" alt="Asuka Banner" width="100%" height="auto">
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/172/172151.gif" alt="Asuka Banner" width="auto" height="50%">
+</div>
 
 <br>
 
