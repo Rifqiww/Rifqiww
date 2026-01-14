@@ -1,18 +1,98 @@
-# 💫 About Me:
-🏫 I’m currently study at SMKN 8 SEMARANG<br>🏢 I’m looking for internship<br>🤝 I’d love to work as a team<br>📖 I’m currently learning Nuxt, Hono, Bun, and Nextjs<br>💖 Tech Addict
+<div align="center">
+  <h1>
+    Hello there! My name is Rifqi Nabil Rafiudin
+  </h1>
+</div>
+<img src="https://giffiles.alphacoders.com/172/172151.gif" alt="Asuka Banner" width="100%" height="auto">
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🎓 <strong>Education Journey</strong></h3>
+        <p><code>SMKN 8 Semarang</code><br>
+        <em>Software & Game Development</em></p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🧑🏻‍💻 <strong>Current Mission</strong></h3>
+        <p><code>Intern at PT Talenavi</code><br>
+        <em>Frontend Developer</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>💡 <strong>Current Learning</strong></h3>
+        <p><code>C#</code> • <code>Three.js</code> • <code>Cybersecurity</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>🔥 <strong>Tech Enthusiast</strong></h3>
+        <p><em>"Code is poetry, security is art, innovation is life"</em></p>
+        <p>🚀 <strong>Open for collabs & tech discussions</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<br>
+
+# 🤝 Let's Connect
+
+<div align="start">
+  
+[![Instagram](https://img.shields.io/badge/-@its_rifqi-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/its_rifqi)
+[![LinkedIn](https://img.shields.io/badge/-RifqiNR-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifqi-nabil-rafiudin)
+[![TikTok](https://img.shields.io/badge/-@_rxfqii-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@_rxfqii)
+[![YouTube](https://img.shields.io/badge/-@Rifqiww-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@Rifqiww)
+
+</div>
+
+<br>
+
+# Tech Stack
+
+### 💻 Frontend, Mobile & Game
+
+<div align="Left">
+
+| 🚀 **Frameworks** | 🎮 **Game Dev** | 📱 **Mobile & Styling** |
+|---|---|---|
+| [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) | [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)](#) | [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) |
+| [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](#) | [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](#) | [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)](#) |
+| [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](#) || [![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)](#) |
+| [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#) || [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#) |
+| [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=%2300DC82)](#) |
+| [![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](#) |
+
+</div> 
+
+### ⚙️ Backend
+[![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Hono](https://img.shields.io/badge/Hono-FFA500?style=for-the-badge&logo=hono&logoColor=white)](#)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_rifqi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rifqi-nabil-rafiudin) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_rxfqii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rifqinabil378@gmail.com) 
+### 🗄️ Database
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rifqiww&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rifqiww&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqiww&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### 🎨 Design Tools
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](#)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rifqiww&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### 🚀 Deployment
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+## 📊 My GitHub Analytics
+![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rifqiww&show_icons=true&theme=onedark&include_all_commits=true)
+
+## 📈 Languages I Used The Most
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rifqiww&layout=donut-vertical&theme=onedark&hide_border=true)
