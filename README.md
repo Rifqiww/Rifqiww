@@ -12,8 +12,7 @@
 
 # 👨‍💻 About Me
 
-**🎓 SMKN 8 Semarang** • Software & Game Development  
-**🧑🏻‍💻 Frontend Developer Intern** at PT Talenavi  
+**🎓 SMKN 8 Semarang** • Software & Game Development
 **💡 Currently Learning:** `C#` • `Three.js` • `Cybersecurity`  
 **🚀 Tech Enthusiast** Open for collaborations & tech discussions
 
